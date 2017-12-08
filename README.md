@@ -33,7 +33,7 @@ A collection of NLP models in [PyTorch](http://pytorch.org/). If PyTorch impleme
 * NL2Code
   * publication: [A Syntactic Neural Model for General-Purpose Code Generation](https://arxiv.org/abs/1704.01696)
   * code: [NL2Code](https://github.com/neulab/NL2code): Theano implementation by the authors
-  * pytorch implementation (in progress)
+  * [pytorch implementation](https://github.com/stanstarks/nlp-models/tree/master/nl2code) (in progress)
   
 ## Program Induction
 * Neural Symbolic Machine
