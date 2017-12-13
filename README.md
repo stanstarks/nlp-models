@@ -2,6 +2,7 @@
 A collection of NLP models in [PyTorch](http://pytorch.org/). If PyTorch implementation is not publicly available, we would like to include it here.
 
 ## Frameworks
+* [allennlp](https://github.com/allenai/allennlp): An open-source NLP research library, built on PyTorch.
 * [ParlAI](https://github.com/facebookresearch/ParlAI): A framework for training and evaluating AI models on a variety of openly available dialog datasets.
 * [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py): Pytorch port of OpenNMT, an open-source (MIT) neural machine translation system.
 
@@ -28,6 +29,14 @@ A collection of NLP models in [PyTorch](http://pytorch.org/). If PyTorch impleme
 * T2T Transformer
   * publication: [Attention is All You Need](https://arxiv.org/abs/1706.03762)
   * code: [attention-is-all-you-need-pytorch](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
+  
+## Machine Comprehension
+* BiDAF
+  * [website](https://allenai.github.io/bi-att-flow/)
+  * PyTorch implementation wanted
+* DrQA
+  * publication: [Reading Wikipedia to Answer Open-Domain Questions](https://arxiv.org/abs/1704.00051)
+  * code: [DrQA](https://github.com/facebookresearch/DrQA): Official implementation slightly different from ParlAI's version
 
 ## Program Synthesis
 * NL2Code
