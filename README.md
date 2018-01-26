@@ -6,6 +6,9 @@ A collection of NLP models in [PyTorch](http://pytorch.org/). If PyTorch impleme
 * [ParlAI](https://github.com/facebookresearch/ParlAI): A framework for training and evaluating AI models on a variety of openly available dialog datasets.
 * [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py): Pytorch port of OpenNMT, an open-source (MIT) neural machine translation system.
 
+## Tutorials
+* [practical-pytorch](https://github.com/spro/practical-pytorch)
+
 ## Sequence Models
 * QRNN
   * publication: [Quasi-Recurrent Neural Networks](https://arxiv.org/abs/1611.01576)
@@ -15,6 +18,8 @@ A collection of NLP models in [PyTorch](http://pytorch.org/). If PyTorch impleme
   * [code](https://github.com/taolei87/sru)
 
 ## Sequence-to-Sequence Learning
+* [AuCson's fast seq2seq](https://github.com/AuCson/PyTorch-Batch-Attention-Seq2seq)
+  * batched tensor manipulation of attention
 * CopyNet
   * publication: [Incorporating Copying Mechanism in Sequence-to-Sequence Learning]()
   * code: [by Minje Choi](https://github.com/mjc92/CopyNet)
