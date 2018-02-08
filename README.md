@@ -56,3 +56,6 @@ A collection of NLP models in [PyTorch](http://pytorch.org/). If PyTorch impleme
 * N-Gram Machine
   * publication: [Learning to Organize Knowledge with N-Gram Machines](https://arxiv.org/abs/1711.06744)
   * code (in progress)
+  
+## Generative Models
+* [Texygen](https://github.com/geek-ai/Texygen): Text GANs model zoo in Tensorflow
